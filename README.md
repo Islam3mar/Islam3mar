@@ -9,22 +9,43 @@ I build clean, maintainable and secure back-end systems with **ASP.NET Core**, a
 * 🎒 Route Academy Back-End .NET Diploma
 * 💻 Back-End Developer specializing in **ASP.NET Core**, **Entity Framework Core** and **SQL Server**
 * 🔐 Secure API design with **JWT Authentication** and **ASP.NET Core Identity**
+* 💳 Payments with **Stripe** (Checkout + Webhooks), PDF generation with **QuestPDF**, and email with **MailKit**
 * ⚡ Real-time features with **SignalR**
 * 🏗️ **Clean & Onion Architecture**, SOLID principles, and design patterns (Repository, Unit of Work, Specification)
 * 🌱 Currently learning **Angular**
 
 ## 💼 Featured Projects
-* **[Bills System](https://github.com/Islam3mar/BillsSystem)**: Sales and invoicing system with automatic bill calculations, Stripe payments, PDF generation, and background reminders (Clean Architecture)
+* **[Bills System](https://github.com/Islam3mar/BillsSystem)**: Billing and payments platform with Stripe Checkout and secure webhooks (signature verification, idempotent processing, refund/dispute handling), Arabic/English PDF invoices with QuestPDF, and email reminders via a MailKit background service (Clean Architecture). [Live demo](http://bills.runasp.net/)
 * **[HR Management System](https://github.com/Islam3mar/HRMS)**: Permission-based access, attendance with Excel import/export, and dynamic payroll. [Live demo](https://hrmsapp.runasp.net/)
-* **[E-Commerce RESTful API](https://github.com/Islam3mar/ECommerceAPI)**: Onion Architecture, JWT Auth, Redis Caching, Stripe Payments, Specification Pattern
-* **[Kon Sanad Charity Management System](https://github.com/ahmed-samir10/GraduationProject)**: Graduation project with role-based API, SignalR + Redis notifications, and PDF reporting
+* **[E-Commerce RESTful API](https://github.com/Islam3mar/ECommerceAPI)**: Onion Architecture, JWT Auth, Redis Caching, Stripe Payments, Specification Pattern. [Live Swagger](https://splendid-commitment-production-3ff6.up.railway.app/swagger)
+* **[Kon Sanad Charity Management System](https://github.com/ahmed-samir10/GraduationProject)**: Graduation project with role-based API, SignalR + Redis notifications, and PDF reporting. [Live demo](https://kon-sanad-whbi.vercel.app/login)
 * **[Gym Management System](https://github.com/Islam3mar/GymSystemMVC)**: 3-Tier Architecture, Identity-based Auth, and a session booking system
+
+## 🔑 Live Demos & Demo Access
+
+<details>
+<summary><b>Click to view demo accounts</b></summary>
+
+<br>
+
+| Project | Link | Account |
+|---|---|---|
+| **Bills System** | [bills.runasp.net](http://bills.runasp.net/) | Username: `admin`<br>Password: `P@$$WORD` |
+| **HRMS** | [hrmsapp.runasp.net](https://hrmsapp.runasp.net/) | Admin: `admin@pioneers-solutions.com` / `P@$$W0RD`<br>Dev: `Dev@pioneers-solutions.com` / `Admin@123` |
+| **Kon Sanad** | [kon-sanad-whbi.vercel.app](https://kon-sanad-whbi.vercel.app/login) | Manager: `MangerAhmed@gamil.com` / `Manger$ry6` |
+| **E-Commerce API** | [Swagger UI](https://splendid-commitment-production-3ff6.up.railway.app/swagger) | Public, register a user through the API |
+
+> These are demo accounts with sample data, created for portfolio review only.
+
+</details>
 
 ## 🛠️ Tech Stack
 
 **Languages:** C# · SQL · JavaScript · HTML5 · CSS3
 
-**Backend:** ASP.NET Core (Web API & MVC) · Entity Framework Core · SignalR · JWT · AutoMapper · FluentValidation · Redis · Stripe
+**Backend:** ASP.NET Core (Web API & MVC) · Entity Framework Core · SignalR · JWT · AutoMapper · FluentValidation · Redis
+
+**Integrations:** Stripe (Checkout & Webhooks) · QuestPDF · MailKit
 
 **Database:** SQL Server
 
