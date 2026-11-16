@@ -14,7 +14,7 @@ I build clean, maintainable and secure back-end systems with **ASP.NET Core**, a
 * ⚡ Real-time features with **SignalR**
 * 🏗️ **Clean & Onion Architecture**, SOLID principles, and design patterns (Repository, Unit of Work, Specification)
 * 🧪 API testing with **Postman** and **Swagger**, plus manual testing
-* 🌱 Currently learning **Angular** and **React**
+* 🌱 Currently learning **React**
 * 🗣️ Languages: Arabic (native), English (professional working proficiency, B2)
 
 ## 🧭 Experience
@@ -33,7 +33,7 @@ I build clean, maintainable and secure back-end systems with **ASP.NET Core**, a
 * **[HR Management System](https://github.com/Islam3mar/HRMS)**: Permission-based access, attendance with Excel import/export, and dynamic payroll. Built from a written SRS using Clean Architecture, Repository/Unit of Work/Specification patterns, FluentValidation, and AutoMapper. Page-level permissions (View/Add/Edit/Delete) via a custom authorization filter, with cookie auth, BCrypt hashing, and AES encryption for sensitive data. Excel import/export with ClosedXML, month locking, and approved payslips stored as immutable snapshots (Sep 2026). [Live demo](https://hrmsapp.runasp.net/)
 * **[E-Commerce RESTful API](https://github.com/Islam3mar/ECommerceAPI)**: Onion Architecture, JWT Auth, Redis Caching, Stripe Payments, Specification Pattern. [Live Swagger](https://splendid-commitment-production-3ff6.up.railway.app/swagger)
 * **[Kon Sanad Charity Management System](https://github.com/ahmed-samir10/GraduationProject)**: Graduation project with role-based API (5 roles), Clean Architecture, JWT, SignalR + Redis notifications, and PDF reporting. Covers donations, warehouse management, a KPI dashboard, a PDF reporting module for donors, donations, and beneficiaries, and a job that alerts users about campaigns nearing their end date (Aug 2025 – Jul 2026). [Live demo](https://kon-sanad-whbi.vercel.app/login)
-* **[Gym Management System](https://github.com/Islam3mar/GymSystemMVC)**: 3-Tier Architecture, Identity-based Auth, and a session booking system
+* **[Gym Management System](https://github.com/Islam3mar/GymSystemMVC)**: 3-Tier Architecture, Identity-based Auth, and a session booking system. [Live demo](https://gym-system-0.runasp.net/)
 
 ## 🔑 Live Demos & Demo Access
 
@@ -47,6 +47,7 @@ I build clean, maintainable and secure back-end systems with **ASP.NET Core**, a
 | **Bills System** | [bills.runasp.net](http://bills.runasp.net/) | Username: `admin`<br>Password: `P@$$WORD` |
 | **HRMS** | [hrmsapp.runasp.net](https://hrmsapp.runasp.net/) | Admin: `admin@pioneers-solutions.com` / `P@$$W0RD`<br>Dev: `Dev@pioneers-solutions.com` / `Admin@123` |
 | **Kon Sanad** | [kon-sanad-whbi.vercel.app](https://kon-sanad-whbi.vercel.app/login) | Manager: `MangerAhmed@gamil.com` / `Manger$ry6` |
+| **Gym System** | [gym-system-0.runasp.net](https://gym-system-0.runasp.net/Account/Login) | Super Admin: `Soly2004@gmail.com` / `P@ssw0rd`<br>Admin: `ahmed@gym.com` / `P@ssw0rd` |
 | **E-Commerce API** | [Swagger UI](https://splendid-commitment-production-3ff6.up.railway.app/swagger) | Public, register a user through the API |
 
 > These are demo accounts with sample data, created for portfolio review only.
@@ -71,7 +72,7 @@ I build clean, maintainable and secure back-end systems with **ASP.NET Core**, a
 
 **Concepts:** OOP · Clean/Onion Architecture · Repository · Unit of Work · Specification · RESTful APIs · JWT · Identity · SOLID · LINQ
 
-**Currently Learning:** Angular · React
+**Currently Learning:** React
 
 ## 📫 Connect With Me
 * 🌐 Portfolio: https://islam3mar.github.io/portfolio/
